@@ -1,6 +1,6 @@
 # 👨‍💻 @shuryak
 
-Hello World! My name is Alexander. I'm a schoolboy 🏫 :).
+Hello World!
 
 ## 🛠 Skills:
 
