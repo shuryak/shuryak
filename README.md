@@ -14,7 +14,7 @@ Software Engineer 🚀. Currently looking for a job so if you've got something s
 
 - 📚 **Other**: [Knowledge base repository](https://github.com/shuryak/knowledge-base)
 
-## Contacts
+## 📨 Contacts
 
 - **Telegram** (preferred): [@shuryak](https://t.me/shuryak)
 
