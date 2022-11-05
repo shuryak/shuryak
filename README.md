@@ -2,7 +2,7 @@
 
 Software Engineer 🚀. Currently looking for a job so if you've got something see [Contacts](#contacts).
 
-## 🦾 Skills:
+## 🦾 Skills
 
 - 🛠 **Backend**: `Go` (primary), `C# (ASP.NET Core)`, `PHP`
 
