@@ -1,6 +1,6 @@
 # 👨‍💻 Alexander Konovalov (@shuryak)
 
-Software Engineer 🚀. Currently looking for a job so if you've got something see [Contacts](#contacts).
+20 y.o. Junior Go Developer at VK Dating 🚀
 
 ## 🦾 Skills
 
