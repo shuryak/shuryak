@@ -18,7 +18,7 @@
 
 - **Telegram** (preferred): [@shuryak](https://t.me/shuryak)
 
-- **VK**: [@shooryak](https://vk.com/shooryak)
+- **VK**: [@sql](https://vk.com/sql)
 
 - **Email**: [freeAA24@yandex.ru](mailto:freeAA24@yandex.ru)
 
