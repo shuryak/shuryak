@@ -1,6 +1,6 @@
 # 👨‍💻 Alexander Konovalov (@shuryak)
 
-20 y.o. Junior Go Developer at [VK Dating](https://dating.vk.com) 🚀
+21 y.o. Go Developer at [VK Dating](https://dating.vk.com) 🚀
 
 ## 🦾 Skills
 
